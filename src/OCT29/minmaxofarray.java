@@ -2,7 +2,7 @@ package OCT29;
 
 public class minmaxofarray {
         public static void main(String[] args) {
-            int[] array = {25, 14, 56, 15, 36, 56, 77, 18, 29, 49};
+            int[] array = {20,40,50,60,70,10};
             int max_value = give_max(array);
             int min_value = give_min(array);
             System.out.printf("Max Value is %d", max_value);
